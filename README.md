@@ -322,7 +322,7 @@ Do not embed profile data in the QR code. The QR is a pointer to a hosted identi
 
 ### Scan Sequence
 
-```
+```  
 1. Camera opens via ZXing scanner
 2. QR detected --> URL extracted
 3. URL validated (must be HTTPS)
