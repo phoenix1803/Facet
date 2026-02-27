@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logofacet.png" alt="Facet" width="200"/>
 </p>
-
+ 
 <h1 align="center">FACET</h1>
 
 <p align="center">A portable, interactive identity runtime for Android.</p>
